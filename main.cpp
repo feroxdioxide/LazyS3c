@@ -33,3 +33,17 @@ int results;
 cout<<results
 return 0;
 }
+
+void Func_two(){
+ int (num1, num2, num3);
+  int results_two
+  if (num1 >= num2 $$ num1 >= num3){
+   return num1 
+  }
+  
+  
+  
+  
+  
+}
+
