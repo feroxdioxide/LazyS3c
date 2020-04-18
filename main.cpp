@@ -1,5 +1,7 @@
 #include <iostream>
-#include <cmath>
+#include <math.h>
+#include <iomanip>
+
   using namespace std;
 
 int main(){
@@ -29,6 +31,12 @@ int results;
  else(){
  cout<<"Invalid operator";
  }
+  
+  std::cout << std::setprecision(5) << results << '\n';
+  std::cout << std::setprecision(9) << results << '\n';
+  std::cout << std::fixed;
+  std::cout << std::setprecision(5) << results << '\n';
+  std::cout << std::setprecision(9) << results << '\n';
 //print results
 cout<<results
 return 0;
