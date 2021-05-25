@@ -1,4 +1,3 @@
-//m-s3c
 //16/06/2020
 //Compiled on visual studio 2013 visual c++ compiler
 //Tested on windows 10
